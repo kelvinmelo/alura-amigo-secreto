@@ -1,6 +1,6 @@
-# Olá, Bem vindo ao meu projeto de sorteador de números!
+# Olá, Bem vindo ao meu projeto de sorteador de amigo secreto!
 
-![sorteadornumerosecreto](https://github.com/kelvinmelo/alura-amigo-secreto/assets/88505916/becdf274-6417-4c59-9362-bb12b62ff8d0)
+![Captura de tela 2024-03-13 160623](https://github.com/kelvinmelo/alura-amigo-secreto/assets/88505916/bd44e1d9-97ec-408e-a682-b581b8046258)
 
 
 ## Ferramentas utilizadas:
