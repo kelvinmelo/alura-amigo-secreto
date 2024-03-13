@@ -1,4 +1,4 @@
-# Olá, Bem vindo ao meu projeto de sorteador de amigo secreto!.
+# Olá, Bem vindo ao meu projeto de sorteador de números!
 
 ![sorteadornumerosecreto](https://github.com/kelvinmelo/alura-amigo-secreto/assets/88505916/becdf274-6417-4c59-9362-bb12b62ff8d0)
 
